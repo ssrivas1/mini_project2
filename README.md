@@ -3,7 +3,8 @@
 ## Submitted By: 
 Srishti Srivastava, Ayush Mohan, Anand Manivannan, Shalika Siddique
 
-Please find our Project Report here: 
+Please find our Project Report here: [Project Report](https://github.com/ssrivas1/mini_project2/blob/main/Mini_project_Submission.pdf)
+<br />
 
 Other files can be accessed at <br />
 1. Source data file: [XYZ_Bank_Deposit_Data_Classification.csv](https://github.com/ssrivas1/mini_project2/blob/main/XYZ_Bank_Deposit_Data_Classification.csv) <br />
